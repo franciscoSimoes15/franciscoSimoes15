@@ -80,9 +80,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoSimoes15&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
+  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" align="center" height="300" width="300" />
 </div>  
