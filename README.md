@@ -48,7 +48,9 @@
 </div>
 
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" align="center" height="300" width="300" />
+</div>
 
 </table>  
 
@@ -77,11 +79,8 @@
 
 <br/>  
   
-<div align="center">
-<img src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" align="center" height="300" width="300" />
-</div>  
   
-
+  
 <br/>  
 
 
