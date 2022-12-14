@@ -51,7 +51,7 @@
 
 </td><td valign="top" width="33%">
 <div align="center">
-<img src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" align="center" height="300" width="300" />
+<img src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" align="center" height="300" width="400" />
 </div>
 </table>  
 
