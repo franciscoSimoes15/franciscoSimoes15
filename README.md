@@ -47,7 +47,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-
+### Photo
 <div align="center">
 <img src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" align="center" height="300" width="300" />
 </div>
