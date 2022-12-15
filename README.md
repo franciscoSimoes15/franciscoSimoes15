@@ -71,7 +71,7 @@
 
 
 ## Project Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoSimoes15&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img theme="dracula" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoSimoes15&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
   
