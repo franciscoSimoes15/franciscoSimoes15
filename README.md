@@ -92,8 +92,8 @@
 
 <br/>  
   
-<div style="border-width:2px;
+<div >
+<img style="border-width:2px;
 border-style:solid;
-border-color:red;">
-<img alt="snake eating my contribution" src="https://github.com/franciscoSimoes15/franciscoSimoes15/blob/output/github-contribution-grid-snake.svg">
+border-color:red;" alt="snake eating my contribution" src="https://github.com/franciscoSimoes15/franciscoSimoes15/blob/output/github-contribution-grid-snake.svg">
 </div>
