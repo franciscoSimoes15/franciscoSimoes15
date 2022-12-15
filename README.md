@@ -91,6 +91,7 @@
   
 
 <br/>  
+  
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/franciscoSimoes15/franciscoSimoes15/blob/output/github-contribution-grid-snake.gif)
  
