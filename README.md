@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Francisco, I'm currently in Software Engineering Course at ISEC </div>  
+### <div align="center">I'm Francisco and I'm currently in Software Engineering Course at ISEC </div>  
   
 
 - 🔭 I’m currently working on MaxValueGame,Rental4You  
