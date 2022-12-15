@@ -93,5 +93,6 @@
 <br/>  
   
 
-<img style="border-color:red;" alt="snake eating my contribution" src="https://github.com/franciscoSimoes15/franciscoSimoes15/blob/output/github-contribution-grid-snake.svg">
+<img alt="snake eating my contribution" src="https://github.com/franciscoSimoes15/franciscoSimoes15/blob/output/github-contribution-grid-snake.svg" style="border-color:red;border-width:2px;
+border-style:solid;">
 
