@@ -3,16 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Francisco and I'm currently in Software Engineering Course at ISEC </div>  
-  
+### <div align="center">I'm Francisco and I'm currently doing Software Engineering master degree at ISEC </div>  
+   
+- 🌱 I’m currently working at Accenture 
 
-- 🔭 I’m currently working on MaxValueGame,Rental4You  
-  
-
-- 🌱 I’m currently learning Kotlin, C#, Asp.net Core, BootStrap, Java, Flutter  
-  
-
-- ⚡ Fun fact: I was a middle school basketball player  
+- ⚡ Fun fact: I was a middle school basketball player and I've practiced for two months Krav Maga
   
 
 <br/>  
