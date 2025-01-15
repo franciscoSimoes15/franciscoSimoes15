@@ -5,9 +5,9 @@
 
 ### <div align="center">I'm Francisco and I'm currently doing Software Engineering master degree at ISEC </div>  
    
-- 🌱 I’m currently working at Accenture 
+- 🌱 I’m currently seeking for a new challenge
 
-- ⚡ Fun fact: I was a middle school basketball player and I've practiced for two months Krav Maga
+- ⚡ Fun fact: I was a middle school basketball player and I've practiced Krav Maga
   
 
 <br/>  
